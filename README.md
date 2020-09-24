@@ -1,4 +1,7 @@
-### Hi there 👋
+## Anthony Swierkosz
+
+**Full-Time Security Student**  
+Rochester Institute of Technology
 
 <!--
 **ajs2576/ajs2576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
